@@ -1,4 +1,4 @@
-# react-learning
+# reactjs
 
 REACT concepts
 1.	Revise Fundamentals
